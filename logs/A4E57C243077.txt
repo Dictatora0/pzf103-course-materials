@@ -1,0 +1,18 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP8266
+Download mode: uart
+Start time: 20260520-14:48
+Connect baud: 115200
+Com:COM6
+connecting...
+manufacturer_id: 0x5e
+device_id: 0x3214
+fs:0x2
+
+Leaving...
+com closed
+Total use time: 3 s
+Download result: PASS
+*************************** END ****************************
+
